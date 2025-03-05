@@ -1,5 +1,4 @@
-
-versi on: '3.8'
+bersi on: '3.8'
 x-common:
   database:
     &db-environment
